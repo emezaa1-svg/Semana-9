@@ -1,0 +1,7 @@
+cat << 'EOF' > componentes-servidor.txt
+Sistema operativo: Base que gestiona hardware, memoria y permisos para que los servicios corran.
+Node.js: Entorno de ejecución que permite procesar JavaScript en el lado del servidor.
+Aplicación server.js: Archivo que contiene la lógica, rutas y respuestas de la API mediante Express.
+Puerto: Canal lógico (3000) que permite direccionar el tráfico web a nuestra aplicación específica.
+Logs: Registros detallados de la actividad y eventos del sistema, vitales para el diagnóstico de fallos.
+EOF

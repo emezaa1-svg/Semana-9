@@ -1,0 +1,3 @@
+cat << 'EOF' > reflexion-semana9.txt
+La estabilidad y seguridad en servidores comunitarios son fundamentales porque garantizan la confianza y continuidad de la interacción digital. Sin estabilidad, el servicio se interrumpe, afectando el flujo de información. Sin seguridad, la privacidad de los usuarios queda expuesta. Ambas aseguran que el entorno sea resiliente y confiable, permitiendo que la comunidad funcione sin preocupaciones técnicas y protegiendo los datos compartidos. Es una responsabilidad técnica necesaria para mantener un espacio digital saludable para todos los integrantes de la red.
+EOF

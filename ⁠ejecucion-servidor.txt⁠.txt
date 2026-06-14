@@ -1,0 +1,4 @@
+cat << 'EOF' > ejecucion-servidor.txt
+Al ejecutar 'node server.js', el proceso queda activo en la terminal mostrando el mensaje: 'Servidor ejecutándose en puerto 3000'.
+Al visitar 'http://localhost:3000/estado' en el navegador, recibo el JSON: {"estado": "Servidor funcionando", "servicio": "API comunitaria"}.
+EOF
